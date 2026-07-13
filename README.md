@@ -25,7 +25,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-##🛠️ Steps to Implement
+## 🛠️ Steps to Implement
 1. Clone the repository
 bash
 git clone https://github.com/sharavana864/Edge_Analytics_IP_Core.git
@@ -48,14 +48,14 @@ Layouts (.gds, .lef) in runs/
 
 Timing reports and DRC/LVS checks
 
-##📊 Repository Structure
+## 📊 Repository Structure
 #Edge_Analytics_IP_Core/
 ├── src/                  # RTL Verilog source files
 ├── runs/                 # OpenLane run outputs
 ├── config.tcl            # Design configuration
 ├── requirements.txt      # Python dependencies
 └── README.md             # Project documentation
-##🎯 Goals
+## 🎯 Goals
 This project demonstrates:
 
 ASIC design flow using OpenLane
@@ -64,6 +64,6 @@ Edge analytics logic implementation in hardware
 
 End‑to‑end chip design from RTL → GDSII
 
-##🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome!
 For major changes, please open an issue first to discuss what you’d like to change.
